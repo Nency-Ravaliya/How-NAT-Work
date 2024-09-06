@@ -32,7 +32,8 @@ NAT is a process that occurs on your router, allowing multiple devices on your l
    - Your laptop sends a request using 192.168.1.50:portX, and the router rewrites it to 203.0.113.15:portY.
    - When the response arrives at the router's public IP (203.0.113.15), the router looks up the NAT table and forwards the response to the correct internal device (your laptop).
   
-  ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6892a5c5-ae48-4f25-89b1-8ddf36c457e2)
+  
 
 
 ### Why Do We Use NAT?
